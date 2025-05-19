@@ -123,6 +123,3 @@ docker run --rm --volumes-from n8n -v $(pwd):/backup busybox tar cvf /backup/n8n
 
 ---
 
-## 📬 Thông tin liên hệ
-
-Nếu bạn cần hỗ trợ hoặc nâng cấp triển khai cho production, hãy liên hệ dev của hệ thống.
